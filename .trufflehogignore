@@ -1,0 +1,2 @@
+src/shared/environments/\.env\.dev
+src/shared/environments/\.env\.local

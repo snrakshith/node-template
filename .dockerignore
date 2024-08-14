@@ -1,0 +1,12 @@
+/node_modules
+Dockerfile
+.dockerignore
+.github
+ecosystem.config.js
+LICENSE
+
+# Markdown files
+CHANGELOG.md
+README.md
+CONTRIBUTING.md
+
